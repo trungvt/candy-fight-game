@@ -11,7 +11,10 @@ Chrome
 
 ## Install devkit library project
 `cd ${project_root_dir}`
+
 `devkit install`
+
 `devkit serve`
+
 Now you can access to your game in the browser with the address `localhost:9200` as default.
 In the main page, you can see all of your devkit-based game project, please choose your favourite projact then push `simulate` button.
