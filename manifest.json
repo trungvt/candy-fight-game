@@ -1,0 +1,17 @@
+{
+  "appID": "5b087c55e6e84e24ae06255789a6133d",
+  "dependencies": {
+    "devkit-core": "https://github.com/gameclosure/devkit-core#v4.5.3",
+    "underscore": "https://github.com/jashkenas/underscore"
+  },
+  "shortName": "candy fight",
+  "studio": {
+    "domain": "studio.beanbeo.com",
+    "name": "Beanbeo",
+    "stagingDomain": "staging.example.com"
+  },
+  "supportedOrientations": [
+    "portrait"
+  ],
+  "title": "Candy Fight"
+}
